@@ -1,1 +1,1 @@
-# Sentiment Analysis on yelp reviews
+# Sentiment Analysis on YELP reviews
