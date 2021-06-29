@@ -71,3 +71,9 @@ Here we are using char-RNN structure(Many-Many RNN) where one output corresponds
  
  ##### How to Run the Model
 In order to run the model you can run the file " Music_Generation.ipynb"  There are total 9 weight files over there. Each weight file represents the epoch number. For instance " Weights_50.h5" are the weights saved at epoch 50. We ran our model for total of 90 epochs. You can add more layers into your model and fine tune the existing layers in the model. Any epoch weight can be loaded for fine tuning or "Transfer Learning".
+
+#### Result 
+Total params: 1,904,983
+Trainable params: 1,904,983
+Non-trainable params: 0
+loss = 0.23245219886302948, acc = 0.9130859375
