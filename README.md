@@ -34,9 +34,7 @@ from tensorflow.keras import layers
 - After epochs = 3
   - Accuracy on Training set = 97.60%
   - Accuracy on Validation set = 76.25%
-### Team Quad
+### Team
 - Varun Rathore
-- Vishal Singh Chawada
-- Rajveer Singh Chouhan
-- Sumer Singh Parmar
+
   
